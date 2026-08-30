@@ -1,0 +1,668 @@
+,BDC,Fecha,Nombre Cliente,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado,¿Por que no ha visitado la agencia?,¿Por que no hay solicitud de credito?,¿Por que no hubo prueba de manejo ?,¿Por que no hubo proceso wow?,¿Por que se asigno antes de vistar piso?
+0,Saul,Abril 2025,Guillermo ,Finalizado,90%,TRUE,False,False,Nancy,"Ya visito la Agencia  el dia jueves 17, interesado en GN8 PHEV ","Pide arrendamiento, unicamente se esta en espera de contacto con el contador, posibilidad de compra 90%","Si, hizo prueba de manejo ","Si recibio procesos wow, estuvo en la agencia mas de 3hrs ","No, se espero a que visitara la agencia para ser asignado "
+1,Saul,Abril 2025,Roberto ,Finalizado,40%,FALSE,False,False,Victor,Ya visito la Agencia  el dia 3 de abril ,Por que primero queria manejar las unidad ,No habia unidad GS8 HEV para prueba de manejo ,"Si recibio procesos wow, sin embargo no quizo nada de lo que se le ofrecio como amenidad ",Se asigno hasta que visitara Piso 
+2,Saul,Abril 2025,Irving ,Finalizado,85%,FALSE,False,False,Alan,Ya visito la agencia el dia 21 de abril ,"Firmo solicitud, sin embargo despues comento que seria contado solo que venta su auto, ya esta en proceso de venta ",Por que no habia unidad para prueba de manejo ,"Si se realizo el proceso wow, los clientes se quedaron hasta las 9:00 PM",Se asigno hasta que visitara Piso 
+3,Saul,Abril 2025,Oswaldo ,Venta,90%,FALSE,False,True,Mauricio,El cliente vive en Tabasco Villahermosa,Sera compra de contado,"Ya la manejo en Villahermosa, sin embargo por promocion y disponibilidad la comprara con nosotros","Las veces que se le ha marcado, agradece mucho la atencion por BDC y por el seguimiento continuo","Necesitabamos sacar el apartado, por eso se asigno antes, quedo de depositar el 23 de abril "
+4,Saul,Abril 2025,Rodrigo ,Finalizado,90%,TRUE,False,False,Mauricio,"Visito la agencia el mes pasado, y nos visita nuevamente el 23 de abril ",Hoy visita nuevamente la agencia y se firma solicitud ,"La primera vez que nos visito, realizo PDM",Si recibio el proceso wow la primera vez que nos visito ,"Se asigno hasta que visitara Piso  la primera vez, y se da nuevamnete el seguimiento con ese asesor "
+5,Saul,Abril 2025,Antonio,Activo,85%,TRUE,True,False,Mauricio,Visito la agencia el dia 13 de abril,Si hubo solicitud de credito ,Si realizo prueba de manejo ,"Lo resivio por parte del asesor, ya que el dia domingo la Hosstes descansa ",Se asigno hasta que visitara Piso 
+6,Saul,Abril 2025,Juan Carlos,Finalizado,20%,FALSE,False,False,Ricardo,"Se programo la visita dos dias, pero nunca asistio ",Comento que firmaba en cuando visitara la agencia ,No visito la agencia ,El el proceso de BDC siempre hubo la atencion adecuada y seguimiento ,Se asgino antes por recomendacion de Gerencia de ventas 
+7,Saul,Abril 2025,Jose Alfredo ,Finalizado,50%,TRUE,False,False,Mauricio,Visito la agencia el dia 13 de abril,Se le compartio cotizacion de arrendamiento sin embargo comenta que saldria del estado y posteriormente se comunicaria ,Se realizo PDM en EMkOO HEV,Si hubo por parte del asesor,Se asigno hasta que visitara Piso 
+8,Saul,Abril 2025,Jacinto ,Finalizado,80%,FALSE,False,False,Nancy,No ha visitado la agencia por temas de trabajo ,"Se esta trabajando en ello, sin embargo el cliente tarda en responder",Por que no ha visitado la agencia ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas 
+9,Saul,Abril 2025,Felipe ,Finalizado,80%,TRUE,False,False,Alan,Se le complicaba asitir sin embargo se le llevo la unidad a su casa,Por que comenta que lo esta platicando con su esposa y da respuesta esta semana ,Si hubo prueba de manejo a domicilio ,"Si lo hubo por parte dell asesor, quedo muy contento ",Se asgino antes por recomendacion de Gerencia de ventas
+10,Saul,Abril 2025,Luz Mercedes,Venta,100%,TRUE,True,True,Mauricio,Si visito la agencia ,Si hubo solicitud de credito ,Si realizo prueba de manejo ,Si  recibio el proceso wow,Se asigno hasta que visitara Piso 
+11,Antonio,Abril 2025,Enrique,Finalizado,80%,TRUE,True,False,Alan,Cita efectiva,capacidad de pago,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+12,Saul,Abril 2025,Esteban ,Finalizado,60%,FALSE,False,False,Aurelio,No ha visitado la agencia por que primero queria saber estatus de su credito ,"El cliente esta en toda la disposicion de  compartir papeles, pero se asigno a asesor y el lead dejo de dar respuesta ",No concreto cita efectiva el vendedor ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas
+13,Saul,Abril 2025,Ramon ,Finalizado,90%,TRUE,True,False,Eduardo,Ya la visito anteriormente sin embargo este mes aun no ,Hay credito autorizado ,"Ya hizo prueba de manejo, en mes anterior ",El cliente esta muy satisfecho con la atencion por parte de BDC y APV,Se asigno hasta visita en Plaza angelopolis 
+14,Saul,Abril 2025,Jose de Jesus ,Finalizado,60%,TRUE,False,False,Alan,Ya visito la agencia,El apv comenta que no tiene forma de demostrat ingresos ,No quizo realizar su prueba de manejo ,Se realizo el proceso wow por parte del asesor ,Se asigno hasta que visitara Piso 
+15,Saul,Abril 2025,Mugdel Janer Morales,Venta,80%,FALSE,True,False,Victor,Ya  visito la agencia,Esta en analisis,"No tenia tiempo, comenta tener prisa",Recibio la atencion,Se asigna en la visita
+16,Antonio,Abril 2025,Carlos Alberto Rios,Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia,Ingresan por Mstar,No trajo licencia,Recibio la atencion,Se asigna en la visita
+17,Antonio,Abril 2025,Vicente Cortes  ,Finalizado,60%,TRUE,False,False,Alan,Ya visito la agencia,Comento mandar papeles y dejo de contestar,Sin registro,Sin registro,Sin registro
+18,Antonio,Abril 2025,Angel  ,Venta,100%,TRUE,True,True,Pedro,ya visito la agencia,compro de contado,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+19,Antonio,Abril 2025,Jorge Luis Nunez ,Activo,80%,TRUE,False,False,Mauricio,Ya visito la agencia,Primero quiere que la vea su esposa,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+20,Antonio,Abril 2025,Mercy,Finalizado,20%,TRUE,False,False,Pedro,ya visito la agencia,"No quizo, solo queria boletos del cine",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+21,Antonio,Abril 2025,Antonio Rodriguez,Activo,80%,TRUE,False,False,Alan,ya visito la agencia,"ya ingreso, le faltan mas estados de cuenta",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+22,Antonio,Abril 2025,Juan Colotl  ,Activo,70%,FALSE,True,False,Laura,ya visito la agencia,Ya se ingreso esta en analisis,Se le ofrecio pero no quizo,Recibio la atencion,Se asigna en la visita
+23,Antonio,Abril 2025,Samuel Salamanca,Activo,80%,FALSE,False,False,Pedro,ya visito la agencia,Quizo conocer primero la unidad,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+24,Antonio,Abril 2025,Christoph Vega,Activo,80%,FALSE,False,False,Mauricio,ya visito la agencia,"solo vio la unidad, su bb estubo desinquieta decidieron retirarse",su bb estubo desinquieta decidieron retirarse,Recibio la atencion,Se asigna en la visita
+25,Saul,Abril 2025,Jose Campos ,Activo,70%,FALSE,True,False,Ricardo,Ya visito la agencia el dia 24 de abril ,"Es arrendamiento, y esta solo en decidir la unidad ","La unidad no estaba en la agencia, y no habia GS4 habilitada para PDM",Si recibio la atencion ,Por indicaciones de gerencia de ventas
+26,Saul,Abril 2025,Roberto Luis Pacheco,Activo,40%,FALSE,False,False,Pedro,"Ya visito la agencia, llego desde Oaxaca ",Comenta que la unidad ,Le gusto la unidad pero comenta que no es para el ,Recibio la atencion ,Se asigno hasta que visitara Piso 
+27,Antonio,Abril 2025,Carlos  Texis  Rodriguez  ,Venta,100%,TRUE,True,True,Alan,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+28,Antonio,Abril 2025,Javier Pazos,Activo,70%,TRUE,True,False,Eduardo,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Sin registro
+29,Antonio,Abril 2025,Roberto Portilla,Activo,70%,FALSE,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Se asigna en la visita
+30,Antonio,Abril 2025,Julian marin castillo,Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Sin registro,Sin registro
+31,Antonio,Mayo 2025,Edgar Becerril,Venta,80%,TRUE,True,True,Ricardo,Ya visito la agencia,"No tenia tiempo, quedo de mandar la informacion",Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+32,Antonio,Mayo 2025,Quetzalli Fernanda,Activo,80%,TRUE,True,False,Ricardo,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Sin registro
+33,Saul,Mayo 2025,Antonio ,Finalizado,90%,TRUE,False,Sin registro,Mauricio,Visito la Agencia el dia 1 de Mayo ,Por que primero quiere vender su sentra,Realizo PDM en Emkoo,Si hubo por parte del asesor,Se asigna en la visita
+34,Saul,Mayo 2025,Estela Hernandez,Finalizado,70%,TRUE,True,False,Mauricio,Visito Custom 2 veces para ver emzoom ,Ya lleno la solicitud de credito ,Ya se realizo prueba de manejo en Apizaco ,Recibio la atencion ,Ocupa asesoria tecnica y visita en tlaxcala 
+35,Saul,Mayo 2025,Arturo Sanchez ,Finalizado,90%,TRUE,True,False,Referido Pablo,Nos visita el dia de hoy ,lleno papeles para credito ,Si hubo prueba de manejo ,Recibio la atencion ,Lead referido pero tratado en Digital
+36,Antonio,Mayo 2025,Anselmo Villarreal Rodas,Finalizado,70%,TRUE,True,False,Eduardo,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+37,Antonio,Mayo 2025,Andres Fernandez Martinez ,Finalizado,90%,TRUE,False,False,Eduardo,Lo visitamos en su casa,Ya se ingreso solicitud,Espera GS8 H,Sin registro,Sin registro
+38,Saul,Mayo 2025,Ulises Alejo ,Finalizado,80%,TRUE,False,False,Nancy,Ya visito la agencia el dia domingo 11,Ya se paso a precalificar ,Si hizo prueba de manejo y le encanto la unidad ,Recibio la atencion ,Se asigno hasta el momento de la visita 
+39,Saul,Mayo 2025,Jose alberto ,Finalizado,70%,FALSE,False,False,Aurelio,Ya nos visito el dia 12 de mayo ,No quizo dejar INE pero asegura que compra ,Si realizo prueba de manejo ,Recibio la atencion,Se asigno hasta el momento de la visita 
+40,Saul,Mayo 2025,Adilene Ruiz,Venta,90%,TRUE,True,True,Mauricio,Ya nos visito el dia 13 de mayo,Ya hay solicitud aprobada por Mstart ,Si realizo prueba de manejo ,Recibio la atencion,Se asgino hasta la visita en piso 
+41,Saul,Mayo 2025,Gerardo garcia ,Finalizado,60%,TRUE,False,Sin registro,Eduardo,Ya nos visito el dia 13 de mayo ,Pide que su mensualidad no exceda los 6mil ,Si hubo prueba de manejo,"recibio la atencion, se fue muy contento ",Se asigno hasta el momento de la visita 
+42,Saul,Mayo 2025,Erick Calderón,Finalizado,80%,TRUE,False,False,Ricardo,Ya nos visito el dia  14 de mayo,Es arrendamiento y se esta en espera de contacto,No habia unidad GS8 disponible en la agencia ,Recibio la atencion ,Se asgino hasta la visita en piso 
+43,Saul,Mayo 2025,Jose Luis,Venta,95%,TRUE,True,True,Victor,Ya nos visito el dia 17 de mayo,No quiso dejar solicitud firmada,Si hubo prueba de manejo ,Si recibio la atencion ,Se asigna hasta la visita a piso
+44,Saul,Mayo 2025,Cesar  Aguilar,Venta,80%,TRUE,True,True,Victor,El cliente es de Veracruz ,Ya hay credito aprobado,El cliente es de Verazruz,ha recibido la atencion correcta ,Para seguimiento a distancia por el Apv
+45,Saul,Mayo 2025,Christian ,Venta,80%,TRUE,False,False,Aurelio,"Ya nos visito, y comenta que nos visitara nuevamnete el dia sabado 24 de mayo",Sera compra de contado ,Se le incistio pero no quizo ,Si recibio la atencion ,Se asigna hasta la visita a piso
+46,Antonio,Mayo 2025,Diego Cabrejiz,Activo,80%,TRUE,False,True,Nancy,Ya visito la agencia,Sera compra de contado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+47,Antonio,Mayo 2025,Sergio Osorno,Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+48,Antonio,Mayo 2025,Jossmarr Csm Gil,Activo,70%,TRUE,True,False,Pedro/Eduardo,Ya visito la agencia,Quiere que vea la unidad su esposa,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+49,Saul,Mayo 2025,Pedro Bello,Venta,80%,TRUE,True,True,Casa,"Visito la agencia y no habia asesor lo atiende pablo, lead del mes de abril ",ya hay solicitud aprobada,Si realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita
+50,Antonio,Mayo 2025,Herrera Erick/Maria del Carmen,Venta,75%,TRUE,True,True,Pedro,ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+51,Saul,Mayo 2025,David,Activo,90%,TRUE,True,False,Aurelio,Nos visito el dia 27 de Mayo,Ya dejo todo para solicitud ,Realizo PDM en Emkoo,Recibio la atencion,Se asigna en la visita
+52,Antonio,Mayo 2025,Lia Vera,Venta,85%,TRUE,True,True,Victor,Ya visito la agencia,ya tiene credito autorizado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+53,Antonio,Mayo 2025,Francisco Mier,Activo,70%,TRUE,False,False,Victor,Ya visito la agencia,Sin registro,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+54,Antonio,Mayo 2025,Ricardo Pedraza Perez  ,Activo,90%,TRUE,True,True,Aurelio,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita
+55,Antonio/Saul,Mayo 2025,Clementina ,Venta,85%,TRUE,True,True,Ricardo,Lead de base de datos ,Ya ingreso y se autorizo,Si hubo PDM ,recibio la atencion ,Lead de base de datos 
+56,Saul,Junio 2025,Aldo Segura ,Finalizado,80%,TRUE,True,False,Ricardo,Nos visito el dia 03 de Mayo,Si hubo solicitud sin embargo salio rechazada,Si hay prueba de manejo ,Recibio la atenciao,Se asigna en la visita
+57,Antonio,Junio 2025,Vladimir,Activo,70%,TRUE,False,False,Pedro,Ya visito la agencia,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+58,Antonio,Junio 2025,Daniel,Activo,80%,TRUE,False,False,Sergio Raymundo,Ya visito la agencia Custom,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+59,Saul,Junio 2025,Francisco Santander ,Finalizado,90%,TRUE,False,False,Alan,Nos visito el dia 08 de junio ,Pretende compra de contado ,Realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita
+60,Saul,Junio 2025,Dulce Elizabeth ,Activo,90%,TRUE,True,True,Pedro,Nos visito el dia viernes 13 de junio ,Ya esta en analisis ,Si hubo prueba de manejo,Recibio la atencion ,Se asgino hasta la visita en piso 
+61,Saul,Junio 2025,Fernando ,Venta,90%,TRUE,True,True,Alan,"Nos visito en plaza, ya deposito apartado ",Ya se esta trabajando ,En proceso,Recibio la atenciao,Se asigna por seguimiento
+62,Antonio,Junio 2025,Sergio Figueroa,Venta,85%,TRUE,True,True,Sergio Raymundo,Ya visito la agencia,ya esta aprobada,Ya realizo prueba de manejo,Recibio la atencion,Se reasigno por seguimiento
+63,Antonio,Junio 2025,Osvaldo Peña ,Activo,75%,TRUE,True,False,Ricardo,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+64,Saul,Junio 2025,Aldo Perz ,Activo,80%,FALSE,False,False,Mauricio,Ya nos visito el dia sabado 14 de junio ,Ya tiene credito aprobado en dorada ,Ya realizo prueba de manejo,Recibio la atencios ,Se asigna en la visita
+65,Saul,Junio 2025,David ,Venta,90%,TRUE,False,True,Pedro,Ya nnos visito su esposa el dia 17 ,El esposo viene el viernes y nos deja papeles ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+66,Saul,Junio 2025,Manuel Portillo,Finalizado,70%,FALSE,False,False,Gerencia,Nos visito el dia 16 de junio,Ya hay solicitud de credito ,Si hubo prueba de manejo,Recibio la atenciao,Se asgino hasta la visita en piso 
+67,Antonio,Junio 2025,Jaime Juarez,Activo,Sin registro,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+68,Antonio,Junio 2025,Pedro Jesus  Pestana Castillo ,Activo,70%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+69,Antonio,Junio 2025,Maximo Fernandez/Fabiana,Venta,90%,TRUE,True,True,Pedro,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+70,Saul,Junio 2025,Anabell,Venta,90%,TRUE,True,True,Pedro,Lead de mes atras ,Ya esta en proceso,Ya se realizo prueba de manejo,Recibio la atenciao,Se asigna por que se conocio en plaza 
+71,Antonio,Junio 2025,Benjamin/ Element empresa,Venta,90%,TRUE,True,True,Alan,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+72,Antonio,Junio 2025,Luis Carlos Gomez ,Activo,50%,TRUE,True,False,Marcos Coca,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+73,Antonio,Junio 2025,Jesus Morales,Venta,70%,TRUE,True,True,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+74,Saul,Junio 2025,Rossana ,Finalizado,80%,TRUE,True,False,Miguel,Ya nos visito el dia 23 de Junio ,Ya esta pre-aprobado ,Ya realizo PDM,Recibio la atencion,Se asigna en la visita 
+75,Antonio,Junio 2025,Parmenides Ortiz,Activo,70%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+76,Antonio,Junio 2025,Miguel Angel,Activo,70%,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+77,Saul,Junio 2025,Jose Miguel,Activo,70%,TRUE,False,False,Mauricio,Ya nos visito el dia 27 de junio,En proceso,Ya realizo la prueba de manejo ,Si recibio la atencion ,se asigno hasta la visita de piso 
+78,Antonio,Junio 2025,Olivia rascon sosa,Activo,60%,TRUE,True,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+79,Antonio,Junio 2025,Mireya Eugenia Ceron,Activo,60%,TRUE,True,True,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+80,Antonio,Junio 2025,Arturo Alcantar,Activo,70%,TRUE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+81,Saul,Junio 2025,Hugo,Activo,60%,FALSE,False,False,Alan,Ya nos visito el dia 30 de junio ,Ya esta en proceso ,Ya se realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+82,Saul,Julio 2025,Hugo Martines ,Activo,60%,TRUE,True,Sin registro,Alan,Ya nos visito el dia 01 de Juio,Esta en proceso por ensueño,Si realizo la prueba de manejo ,Recibio la atencion,Se asigna en la visita
+83,Antonio,Julio 2025,Heriberto Solis Perez,Activo,60%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+84,Antonio,Julio 2025,Julio Jimenez,Activo,70%,TRUE,True,True,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+85,Antonio,Julio 2025,Edgar Corte ,Activo,70%,FALSE,False,False,Carlos Texis,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+86,Saul,Julio 2025,Grabiel Zamora ,Activo,90%,TRUE,True,False,Mauricio,Ya nos visito el dia 05/julio,Esta en proceso,Esta en proceso,Esta en proceso,Se  asigna en visita
+87,Saul,Julio 2025,Ivan ,Activo,80%,FALSE,False,False,Nos Vista Lunes 7,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+88,Saul,Julio 2025,Anthony,Activo,80%,TRUE,True,False,Nos Visita El Sabado 5,Ya nos visito ,Ya esta la solicitud ,Ya realizo la prueba de manejo ,Esta en proceso,Sin registro
+89,Antonio,Julio 2025,Ernesto Vega,Activo,80%,TRUE,True,True,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+90,Saul,Julio 2025,Hector Cortes ,Activo,85%,TRUE,False,False,Alan Gonzalez,Ya nos visito,Esta en proceso, Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigna en la visita 
+91,Antonio,Julio 2025,Gabriel,Activo,80%,TRUE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+92,Saul,Julio 2025,Fausto,Activo,80%,TRUE,True,False,Ricardo,Ya nos visito el dia 11 de Julio ,Ya esta en proceso ,Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigno en la visita 
+93,Antonio,Julio 2025,Javer Moreno,Activo,80%,FALSE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Llego al cierre del dia,Recibio la atencion,Se asigna en la visita
+94,Saul,Julio 2025,Roberto Paz Rojano ,Activo,80%,FALSE,False,False,Aurelio,Ya nos visito el dia 15 Julio ,Ya esta en proceso ,El cliente comenta que no queria manejar la unidad ,Recibio la atencion ,Se asigna en la visita
+95,Saul,Julio 2025,Alfonso ,Activo,80%,FALSE,False,False,Pedro Antonio,Ya nos visito el dia 16 de julio ,Ya esta en proceso ,Si hubo prueba de manejo ,Recibio la atencion,Se asigna en la visita
+96,Antonio,Julio 2025,Antonio/Talia,Activo,80%,FALSE,True,True,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+97,Antonio,Julio 2025,Marisol Luna,Activo,80%,TRUE,True,False,Aurelio,Ya visito la agencia,Autorizada,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+98,Saul,Julio 2025,Erick ,Finalizado,70%,TRUE,True,False,Aurelio,Ya visito la agencia ,El credito fue rachazado ,realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita 
+99,Saul,Julio 2025,Karla ,Activo,Sin registro,FALSE,False,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita 
+100,Antonio,Julio 2025,Jose Hermenegildo ,Activo,80%,TRUE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+101,Antonio,Julio 2025,Jossmarr  Csm Gil ,Activo,90%,TRUE,True,True,Marcos Coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+102,Saul,Julio 2025,Guillermina ,Activo,90%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+103,Antonio,Julio 2025,Lorenzo Coyotl ,Activo,80%,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+104,Antonio,Julio 2025,Patricia Rios,Activo,60%,TRUE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+105,Antonio,Julio 2025,Armando Alvarez Morales,Activo,80%,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+106,Antonio,Julio 2025,Juan Manuel Infante,Activo,85%,TRUE,True,False,Marcos Coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+107,Saul,Julio 2025,Gustavo Rojas Garcia,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Si hay solicitud de credito ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+108,Saul,Julio 2025,Mauricio Garcia,Activo,80%,TRUE,True,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+109,Antonio,Julio 2025,Susana Morales Gutierrez,Activo,80%,TRUE,False,False,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+110,Antonio,Julio 2025,Valerio Figueroa,Activo,80%,TRUE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+111,Antonio,Julio 2025,Sr Martinez,Activo,80%,TRUE,False,False,Marcos Coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+112,Antonio,Julio 2025,German Hernandez,Activo,60%,TRUE,False,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+113,Saul,Julio 2025,Oscar,Activo,80%,FALSE,True,False,Daniel,Ya visito la agencia,Ya esta en proceso,No habia Unidad Demo,Recibio la atencion ,Se asigna en la visita
+114,Antonio,Julio 2025,Alvaro Vega Tobón,Activo,80%,TRUE,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+115,Antonio,Agosto 2025,Manolin Marin  ,Activo,80%,TRUE,False,False,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+116,Ana,Agosto 2025,Abraham Fernandez ,Activo,70%,FALSE,False,False,Mercedes,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+117,Antonio,Agosto 2025,Karina Madrid,Activo,80%,TRUE,False,False,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+118,Antonio,Agosto 2025,Iram Sanchez,Activo,80%,TRUE,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+119,Antonio,Agosto 2025,Gilberto,Activo,80%,TRUE,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+120,Antonio,Agosto 2025,Marta Gomez,Activo,60%,TRUE,False,False,Alan/Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+121,Ana,Agosto 2025,Norma Cruz,Activo,70%,TRUE,False,False,Ricardo,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+122,Ana,Agosto 2025,Ryan Pacheco ,Activo,90%,TRUE,True,True,Pedro,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+123,Antonio,Agosto 2025,Miguel Edgar Ayllon,Activo,75%,TRUE,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+124,Antonio,Agosto 2025,Jesus Ramirez,Activo,70%,TRUE,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+125,Ana,Agosto 2025,Jose Frein Romero Vega ,Activo,70%,FALSE,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+126,Ana,Agosto 2025,Javier Garcia ,Activo,70%,TRUE,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+127,Antonio,Agosto 2025,Angelica Tejeda,Activo,80%,TRUE,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+128,Antonio,Agosto 2025,Ariel Macbeth Fierro Lima,Activo,75%,TRUE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+129,Antonio,Agosto 2025,Robert Lopez,Activo,75%,TRUE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+130,Antonio,Agosto 2025,Eduardo Solis,Activo,80%,TRUE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+131,Ana,Agosto 2025,Margarita Rodriguez,Finalizado,50%,FALSE,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+132,Ana,Agosto 2025,Jhonny Frost ,Activo,70%,TRUE,True,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Sin registro
+133,Ana,Agosto 2025,Obed Garcia ,Activo,70%,TRUE,False,False,Alan,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+134,Ana,Agosto 2025,Nazario Garcia,Activo,70%,TRUE,False,False,Aurelio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+135,Ana,Agosto 2025,Edson Jair,Activo,60%,FALSE,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+136,Ana,Agosto 2025,Oscar Daniel Cuautli LÃÂÃÂÃ,Activo,70%,FALSE,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+137,Ana,Agosto 2025,Ruben Quiroz ,Activo,70%,TRUE,True,False,Mauricio,Ya visito la agencia ,Ya este en proceso ,Sin registro,Sin registro,Sin registro
+138,Antonio,Agosto 2025,Hipolito Leandro Funes ,Activo,80%,TRUE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+139,Antonio,Agosto 2025,Ruben Rafael Lozada ,Activo,80%,TRUE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+140,Ana,Agosto 2025,Fabi?n Zaldivar Arres ,Activo,80%,TRUE,False,False,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin registro
+141,Antonio,Agosto 2025,Alejandro Sosa,Activo,50%,FALSE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+142,Antonio,Agosto 2025,Evangelina Rojas Juarez ,Activo,80%,TRUE,True,False,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+143,Antonio,Agosto 2025,Curro,Activo,80%,TRUE,False,False,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin registro
+144,Ana,Agosto 2025,Gabino Arrieta ,Activo,60%,TRUE,False,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Sin registro
+145,Ana,Agosto 2025,Aldo Anzures Martinez,Activo,80%,TRUE,False,False,Ricardo,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Sin registro,Sin registro
+146,Ana,Agosto 2025,antonio pavon garcia,Activo,50%,FALSE,False,False,Marcos,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+147,Ana,Agosto 2025,Andres Felipe ,Activo,60%,FALSE,False,False,Marcos,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+148,Antonio,Agosto 2025,Elizabeth  Toledo ,Activo,80%,TRUE,False,False,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+149,Antonio,Agosto 2025,JUAN ANTONIO CASTELAN SANTIAGO,Activo,80%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+150,Antonio,Agosto 2025,Luis Angel Ramos,Activo,60%,TRUE,False,False,Jeamy Custom,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+151,Ana,Agosto 2025,Julia María Navarrete Carreño,Activo,80%,TRUE,False,False,Marcos,Ya visito  la agencia ,Sin registro,Ya realizo prueba de manejo ,Recibio la atencion,Sin registro
+152,Antonio,Agosto 2025,Ozair Viveros,Activo,80%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+153,Ana,Agosto 2025,Yaimy  Guiterrez ,Activo,50%,FALSE,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+154,Antonio,Agosto 2025,Orlando Delgado ,Activo,50%,TRUE,False,False,Maurico,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+155,Ana,Agosto 2025,Rodrigo.e.jim,Activo,50%,FALSE,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+156,Ana,Agosto 2025,"Gabriel  Franco , Vazquez",Activo,60%,FALSE,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+157,Antonio,Agosto 2025,Marisol Luna  Angeles,Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+158,Antonio,Agosto 2025,"Marcos Benjamin Oviedo, Moreno",Activo,60%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+159,Ana,Agosto 2025,Fernando Pacheco ,Activo,60%,FALSE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+160,Antonio,Septiembre 2025,Johann Arevalo Zaragoza,Activo,60%,TRUE,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+161,Ana,Septiembre 2025,Alejandro Valentin,Activo,60%,FALSE,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+162,Ana,Septiembre 2025,"Maria  Dolores , Rueda ",Activo,60%,FALSE,False,False,Ignacio,Videollamada,Sin registro,Sin registro,Sin registro,Sin registro
+163,Ana,Septiembre 2025,Nahum Montiel,Activo,50%,FALSE,False,False,Alan,Videollamada,Sin registro,Sin registro,Sin registro,Sin registro
+164,Antonio,Septiembre 2025,Juan,Activo,60%,TRUE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+165,Antonio,Septiembre 2025,Comercializadora   Y Distribuidora,Activo,80%,TRUE,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+166,Ana,Septiembre 2025,Juan Aguilar Moreno ,Activo,60%,FALSE,False,False,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin registro,Sin registro,Sin registro
+167,Ana,Septiembre 2025,Jorge Luis,Activo,70%,FALSE,False,False,Mercedes,Videollamada,Ya esta en proceso,Sin registro,Sin registro,Sin registro
+168,Ana,Septiembre 2025,Ricardo,Activo,60%,FALSE,False,False,Mercedes,Ya visita la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+169,Antonio,Septiembre 2025,Miguel Angel Cuenca Perez,Activo,80%,TRUE,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+170,Ana,Septiembre 2025,Eloy Perez Gracia,Activo,80%,TRUE,False,False,Alan,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+171,Antonio,Septiembre 2025,Oscar Campech,Activo,60%,TRUE,False,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita
+172,Ana,Septiembre 2025,Levy Carrillo,Activo,80%,TRUE,False,False,Julio Cesar,Ya visito la agencia,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita3
+173,Antonio,Septiembre 2025,Monserrat Vivar Garcia,Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+174,Ana,Septiembre 2025,Erwin Castaneda  ,Activo,70%,TRUE,False,False,Pedro Antonio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+175,Ana,Septiembre 2025,Adriel Zenteno,Activo,70%,FALSE,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+176,Antonio,Septiembre 2025,Mary Luz Carrillo Eliosa,Sin registro,70%,TRUE,False,False,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+177,Ana,Septiembre 2025,Sergio   Contreras ,Activo,60%,FALSE,False,False,Maurico,Videollamada,Ya esta en proceso ,Sin registro,Sin registro,Sin registro
+178,Antonio,Septiembre 2025,Alejandro Huerta Fuentes,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+179,Antonio,Septiembre 2025,Felipe Sanchez/sigmundo,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+180,Antonio,Septiembre 2025,Salvador Flores,Activo,80%,TRUE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+181,Antonio,Septiembre 2025,Marco Antonio  Altamirano Conde ,Activo,80%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+182,Ana,Septiembre 2025,Josue  Heron  Lopez,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion ,Se asigno en la visita 
+183,Ana,Septiembre 2025,Yoni Maravilla,Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+184,Antonio,Septiembre 2025,German Leon Sanchez,Activo,80%,FALSE,False,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+185,Ana,Septiembre 2025,Eddie Fb ,Activo,80%,FALSE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+186,Antonio,Septiembre 2025,ISACHIFT117,Activo,70%,FALSE,True,False,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+187,Antonio,Septiembre 2025,Gaviota Alvarez,Activo,80%,FALSE,True,False,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+188,Ana,Septiembre 2025,Carlos Leonel  Bautista  ,Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+189,Ana,Septiembre 2025,Marcos  Maldonado ,Activo,60%,FALSE,True,False,Julio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+190,Ana,Septiembre 2025,"Edmon   Abdala ,  ",Activo,80%,FALSE,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+191,Ana,Septiembre 2025,Antelmo Flores Guevara,Activo,80%,FALSE,False,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+192,Ana,Septiembre 2025,Jose Eduardo Alonso ,Activo,60%,FALSE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+193,Antonio,Septiembre 2025,Omar Aguilar Teyssier,Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+194,Ana,Septiembre 2025,Sarai Ruiz,Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita 
+195,Ana,Septiembre 2025,Jesus Colorado,Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+196,Ana,Septiembre 2025,"Juan Manuel Mendoza, Hernandez",Activo,80%,FALSE,True,False,Julio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita 
+197,Antonio,Septiembre 2025,Martha Fernanda Garcia,Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+198,Ana,Septiembre 2025,Clau,Activo,50%,FALSE,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+199,Antonio,Septiembre 2025,Javier Garcia Amaya,Activo,60%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+200,Ana,Septiembre 2025,"Joaquin Rodrigo Arias, Rios",Activo,50%,TRUE,False,False,Julio,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita
+201,Ana,Septiembre 2025,Jesus Monreal,Activo,80%,TRUE,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+202,Ana,Septiembre 2025,Carlos Rodriguez Perez Rodr?guez P?rez ,Activo,70%,TRUE,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+203,Ana,Septiembre 2025,Julio Cesar Vega ,Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion ,Se asigna en la visita 
+204,Ana,Septiembre 2025,Ivan Garcia,Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita 
+205,Antonio,Septiembre 2025,Jose De Jesus  Perez,Activo,80%,FALSE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+206,Ana,Septiembre 2025,Ricardo  Arenas,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+207,Ana,Septiembre 2025,"Miguel  Irigoyen, ",Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+208,Antonio,Septiembre 2025,Rene Angel Bellizzi ,Activo,80%,FALSE,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+209,Ana,Septiembre 2025,Laura Ivonne Martinez ,Activo,80%,FALSE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+210,Ana,Septiembre 2025,Alejandro Olivares,Activo,60%,FALSE,True,False,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+211,Antonio,Septiembre 2025,Felipe  Tepale,Activo,80%,FALSE,True,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+212,Antonio,Septiembre 2025,Juan Carlos Miguel ,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita 
+213,Ana,Septiembre 2025,Jesus Manuel  Rios,Activo,60%,FALSE,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+214,Antonio,Septiembre 2025,Nicolas Contreras,Activo,80%,FALSE,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+215,Ana,Septiembre 2025,"Jose De Jesus  Perez , ",Activo,80%,TRUE,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+216,Antonio,Septiembre 2025,"Jose Miguel  Cosme, Martinez",Activo,80%,FALSE,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+217,Ana,Septiembre 2025,Juan Aguilar Moreno ,Activo,80%,FALSE,True,False,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+218,Ana,Septiembre 2025,Adriel Zenteno ,Activo,80%,FALSE,False,False,Ana,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+219,Antonio,Septiembre 2025,Jose Eduardo Toriz Bustos ,Activo,80%,TRUE,False,False,Alan,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+220,Ana,Septiembre 2025,VANNESSA LIZETTE PEREZ CARRANZA,Activo,70%,FALSE,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+221,Ana,Septiembre 2025,Juan  Lopez Cruz ,Activo,80%,FALSE,False,False,Ricardo,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita 
+222,Antonio,Septiembre 2025,NADIA LOPEZ GABRIEL,Activo,80%,FALSE,False,True,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+223,Ana,Octubre 2025,"Sixto Tito  Guzman, Varela",Activo,80%,TRUE,True,False,Jhosslan,Ya visit la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+224,Antonio,Octubre 2025,Rogelio Hernandez,Activo,95%,TRUE,True,True,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+225,Ana,Octubre 2025,Juan Francisco Olvera Alarcon,Activo,70%,FALSE,True,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+226,Ana,Octubre 2025,Gonzalo Chavez,Activo,80%,FALSE,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+227,Ana,Octubre 2025,Jesus Gilbert  Cano ,Activo,60%,FALSE,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita 
+228,Antonio,Octubre 2025,Eliseo Huerta,Activo,70%,TRUE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+229,Antonio,Octubre 2025,Javier  Reyes,Activo,80%,FALSE,True,False,Jhosslan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+230,Ana,Octubre 2025,Joaquin Moreno,Activo,80%,FALSE,True,False,Alan,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+231,Ana,Octubre 2025,Jose  Luis   Salazar  ,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+232,Antonio,Octubre 2025,Jose Luis Pelcastre,Activo,75%,TRUE,True,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+233,Antonio,Octubre 2025,Jennifer,Activo,60%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+234,Ana,Octubre 2025,Enrique  Enrique  Herrera,Activo,70%,FALSE,False,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+235,Ana,Octubre 2025,Ivan Emilio,Activo,85%,FALSE,True,False,Antonio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Sin registro,Sin registro
+236,Ana,Octubre 2025,Jose Abraham Zamora Arenas,Activo,80%,FALSE,True,False,Ricardo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+237,Antonio,Octubre 2025,Gustavo Rojas Garcia,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+238,Ana,Octubre 2025,Carmen  Ortega ,Activo,80%,FALSE,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Sin registro
+239,Ana,Octubre 2025,Raul Delgado,Activo,70%,TRUE,True,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin registro
+240,Antonio,Octubre 2025,Adan Fuentes ,Activo,85%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+241,Ana,Octubre 2025,Jose Reyes,Activo,70%,FALSE,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo ,Sin registro,Sin registro
+242,Antonio,Octubre 2025,Humberto Maldonado Garcia,Activo,65%,TRUE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+243,Antonio,Octubre 2025,Miguel Vasquez San Pablo ,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita 
+244,Ana,Octubre 2025,Carolina Ortega,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+245,Antonio,Octubre 2025,Alejandro Vivas,Activo,80%,FALSE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+246,Ana,Octubre 2025,Jose Manuel Martinez Rodriguez,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Sin registro,Sin registro
+247,Antonio,Octubre 2025,Juan mercado González,Activo,80%,FALSE,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+248,Ana,Octubre 2025,Martin Magdaleno  Rodriguez ,Activo,80%,FALSE,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita
+249,Ana,Octubre 2025,Christian Capetillo,Activo,80%,FALSE,True,True,Omar,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita
+250,Ana,Octubre 2025,Jose Manuel Morales Gomez,Activo,80%,FALSE,True,False,Omar,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita
+251,Ana,Octubre 2025,Orlando  Cuahutle,Activo,80%,FALSE,True,False,Julio,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita
+252,Ana,Octubre 2025,Joselin Ramirez  Escobar,Activo,70%,FALSE,True,False,Alan,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+253,Antonio,Octubre 2025,Rafael Davila,Activo,65%,TRUE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+254,Ana,Octubre 2025,Felix Luna Baleon,Activo,80%,FALSE,True,False,Jhosslan,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Sin registro
+255,Ana,Octubre 2025,Luis Munoz ,Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+256,Antonio,Octubre 2025,Monserrat Torres,Activo,60%,FALSE,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+257,Antonio,Octubre 2025,Alberto Acocal ,Activo,80%,TRUE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+258,Ana,Octubre 2025,Diego Martinez,Activo,90%,FALSE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+259,Ana,Octubre 2025,Cesar Cabrera Ortega ,Activo,70%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+260,Ana,Octubre 2025,Diana  Hernandez ,Activo,80%,FALSE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+261,Ana,Octubre 2025,Francisco  Mier ,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+262,Ana,Octubre 2025,Margarita Diaz Garcia ,Activo,80%,TRUE,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+263,Antonio,Octubre 2025,Teresa Guadalupe  Guillen Venegas,Activo,75%,FALSE,True,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+264,Antonio,Octubre 2025,Adair Lopez,Activo,60%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+265,Ana,Octubre 2025,Jairo Samuel  Pineda Velasquez,Activo,70%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+266,Ana,Octubre 2025,"Miriam Lizbeth Ruiz, Zamudio",Activo,85%,FALSE,True,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+267,Ana,Octubre 2025,Imelda  Valencia  Sanchez,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+268,Antonio,Octubre 2025,"Luis  Jorge , ",Activo,80%,FALSE,True,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+269,Ana,Octubre 2025,Waldo Pichon ,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+270,Ana,Octubre 2025,"Taide Cordoba, Sandoval",Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+271,Antonio,Octubre 2025,"Sandi  Hernandez , ",Activo,85%,FALSE,True,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+272,Ana,Octubre 2025,"Adriana  Zarate, Apolinar",Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+273,Antonio,Octubre 2025,Victor  Lorenzana ,Activo,65%,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+274,Antonio,Octubre 2025,"Antonio Ojeda  , ",Activo,70%,FALSE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+275,Ana,Octubre 2025,Mario Alberto Medrano Mayo,Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+276,Antonio,Octubre 2025,Antonio De Jesus Lima Hernandez,Activo,80%,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+277,Ana,Octubre 2025,"Antonio  Lopez, ",Activo,80%,FALSE,True,True,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+278,Antonio,Octubre 2025,"Todoro Lopez, ",Activo,70%,TRUE,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+279,Ana,Octubre 2025,"Martin Vazquez  , ",Activo,65%,FALSE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+280,Antonio,Octubre 2025,"Israel Chavez  , ",Activo,80%,FALSE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+281,Antonio,Octubre 2025,Rocio Lopez Mesa,Activo,80%,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+282,Ana,Noviembre 2025,Alexis  Palestina ,Activo,80%,FALSE,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+283,Ana,Noviembre 2025,Vanessa  Maza ,Activo,80%,TRUE,True,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+284,Ana,Noviembre 2025,"Hugo Jorge  , ",Activo,70%,TRUE,True,True,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+285,Ana,Noviembre 2025,"David  Torres , Ramirez ",Activo,80%,FALSE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+286,Ana,Noviembre 2025,Yasmin Galindo ,Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+287,Ana,Noviembre 2025,Ricardo  Martinez Tepox ,Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+288,Ana,Noviembre 2025,Ari  Valero ,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita 
+289,Ana,Noviembre 2025,Guadalupe Hernandez ,Activo,80%,TRUE,True,False,Pedro Antonio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+290,Ana,Noviembre 2025,Humberto Calixto,Activo,80%,TRUE,True,False,Aurelio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+291,Antonio,Noviembre 2025,Isidro Ramos,Activo,60%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+292,Antonio,Noviembre 2025,Jose Alberto ,Activo,60%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+293,Antonio,Noviembre 2025,Andrea Hernandez Reyes,Activo,70%,FALSE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+294,Antonio,Noviembre 2025,Manuel Rodriguez ,Activo,80%,TRUE,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+295,Antonio,Noviembre 2025,José Iván Sánchez Pérez,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+296,Antonio,Noviembre 2025,Octavio Arvea,Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+297,Ana,Noviembre 2025,Mario Negrete Juarez ,Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+298,Ana,Noviembre 2025,Juan Gonzales ,Activo,70%,FALSE,True,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+299,Ana,Noviembre 2025,Marcial   Sanchez   ,Activo,80%,FALSE,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+300,Ana,Noviembre 2025,Jesus Ivan Ibarra Robles,Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+301,Ana,Noviembre 2025,Juan Antonio  Cid  Reynoso  ,Activo,70%,FALSE,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+302,Ana,Noviembre 2025,Cesar Cabrera Ortega ,Activo,70%,FALSE,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+303,Ana,Noviembre 2025,Jose De Jesus  Franco Saldana ,Activo,70%,FALSE,False,False,Ricardo,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+304,Ana,Noviembre 2025,Jose C Tecnom ,Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+305,Ana,Noviembre 2025,Rene Beguerisse Torres,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+306,Antonio,Noviembre 2025,Jose Ramon Marquez,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+307,Antonio,Noviembre 2025,Ramsey Tecnom,Activo,60%,FALSE,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+308,Ana,Noviembre 2025,Jorge Ariza,Activo,90%,TRUE,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+309,Ana,Noviembre 2025,"Manuel  Vinaz, ",Activo,90%,TRUE,True,False,Omar,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+310,Antonio,Noviembre 2025,Efrain Zamudio ,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+311,Antonio,Noviembre 2025,Rivera Castillo,Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+312,Ana,Noviembre 2025,Alan Quintero Munive,Activo,70%,FALSE,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+313,Ana,Noviembre 2025,Omar Garcia Vazquez,Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+314,Ana,Noviembre 2025,Victor Arrroyo Tecnom,Activo,70%,TRUE,False,False,Pedro,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+315,Ana,Noviembre 2025,Hugo Jirge Regalado Castaneda,Activo,60%,FALSE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+316,Ana,Noviembre 2025,"Arizbeck  Ortiz, ",Activo,70%,TRUE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+317,Ana,Noviembre 2025,"David  Torres , Ramirez ",Activo,80%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+318,Ana,Noviembre 2025,Vanessa  Maza ,Activo,80%,FALSE,False,True,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+319,Antonio,Noviembre 2025,Hugo Jirge Regalado  Castaneda ,Activo,70%,FALSE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+320,Antonio,Noviembre 2025,"Jean  Simoni, ",Activo,70%,FALSE,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+321,Antonio,Noviembre 2025,Gustavo Rojas ,Activo,70%,FALSE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+322,Ana,Noviembre 2025,"Rafael  Chocolatl, Cervantes",Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+323,Ana,Noviembre 2025,"Dionisio Arce, Martinez",Activo,80%,FALSE,False,False,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+324,Antonio,Noviembre 2025,Mauel  Ramirez ,Activo,70%,FALSE,True,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+325,Ana,Noviembre 2025,"Roberto Carlos Parra, Castelan",Activo,70%,TRUE,True,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+326,Ana,Noviembre 2025,Jose Luis Martinez,Activo,70%,FALSE,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+327,Antonio,Noviembre 2025,"Oscar  Arroyo, ",Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+328,Antonio,Noviembre 2025,"Hector Alejandro Gonzalez Tapia  , ",Activo,70%,FALSE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+329,Ana,Noviembre 2025,Cristian Ocampo ,Activo,70%,TRUE,True,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+330,Ana,Noviembre 2025,"Gloria Elena  Benavides, ",Activo,80%,FALSE,True,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+331,Antonio,Noviembre 2025,Efrain Zamudio ,Activo,80%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+332,Antonio,Noviembre 2025,Carolina  Ortega ,Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+333,Antonio,Noviembre 2025,"Hector Miguel  Fernandez , ",Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+334,Antonio,Diciembre 2025,Sr. Elvis fb,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+335,Antonio,Diciembre 2025,Magdaleno,Activo,80%,FALSE,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+336,Ana,Diciembre 2025,Cerezo Honorato,Activo,80%,TRUE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+337,Ana,Diciembre 2025,Laura Garcia,Activo,70%,TRUE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+338,Ana,Diciembre 2025,Sr. Francisco Cianca,Activo,70%,FALSE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+339,Antonio,Diciembre 2025,Jose De Jesus Perez Hernandez,Activo,80%,FALSE,False,False,Ya Visito La Agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin registro
+340,Ana,Diciembre 2025,Jose Abraham,Activo,80%,TRUE,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+341,Ana,Diciembre 2025,Jose Luis Rojas Aguilar,Activo,80%,TRUE,False,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+342,Ana,Diciembre 2025,"Sr. Roberto Loeza
+",Activo,60%,FALSE,True,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+343,Ana,Diciembre 2025,Ale Arellano,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+344,Antonio,Diciembre 2025,Eugenio De Las Heras B,Activo,80%,FALSE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+345,Antonio,Diciembre 2025,Francisco/Maria del Sol,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+346,Antonio,Diciembre 2025,Filiberto González Guarneros,Activo,80%,FALSE,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+347,Antonio,Diciembre 2025,Jose Alberto,Activo,60%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+348,Antonio,Diciembre 2025,Luciano Valdès,Activo,80%,TRUE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+349,Antonio,Diciembre 2025,Agustin,Activo,70%,TRUE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+350,Ana,Diciembre 2025, MIGUEL SANTAMARIA MORALES,Activo,90%,TRUE,False,False,Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+351,Ana,Diciembre 2025,Jose Luis Guevara,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+352,Ana,Diciembre 2025,Dario Castillo,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+353,Ana,Diciembre 2025,Sixto Tito,Activo,80%,FALSE,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+354,Antonio,Diciembre 2025,Antonio Sanchez,Activo,80%,TRUE,False,False,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+355,Ana,Diciembre 2025,Marco Antonio,Activo,Sin registro,FALSE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+356,Antonio,Diciembre 2025,Andy,Activo,80%,TRUE,False,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+357,Antonio,Diciembre 2025,Hugo,Activo,80%,TRUE,False,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+358,Antonio,Diciembre 2025,Vicente Acosta,Activo,80%,TRUE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+359,Ana,Diciembre 2025,Luis Lopez,Activo,70%,FALSE,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+360,Ana,Diciembre 2025,Lalo Diaz,Activo,90%,TRUE,True,False,Victor,Ya visito la agencia                              ,Sin registro,Sin registro,Sin registro,Sin registro
+361,Ana,Diciembre 2025,Julián García,Activo,80%,TRUE,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+362,Antonio,Diciembre 2025,Rigoberto Salazar,Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+363,Antonio,Diciembre 2025,Rodriguez Perslta,Activo,70%,FALSE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+364,Antonio,Diciembre 2025,Diana Paola Cervantes Márquez,Activo,70%,FALSE,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+365,Antonio,Diciembre 2025,Mahe Aguilar,Activo,60%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+366,Ana,Diciembre 2025,Eliut t,Activo,80%,TRUE,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+367,Ana,Diciembre 2025,Edward T,Activo,70%,FALSE,True,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+368,Ana,Diciembre 2025,Mtro Milton,Activo,70%,FALSE,False,False,Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+369,Ana,Diciembre 2025,"Maria Elena  Sanchez , Perez ",Activo,80%,TRUE,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+370,Antonio,Diciembre 2025,Oscar Bautista,Activo,60%,FALSE,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+371,Ana,Diciembre 2025,Adrian Paadilla,Activo,70%,TRUE,False,False,Ricardo,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+372,Ana,Diciembre 2025,Gregorio Roldan Garcia,Activo,70%,FALSE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+373,Antonio,Diciembre 2025,Manuel Baltazar,Activo,70%,FALSE,True,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+374,Antonio,Diciembre 2025,Carlos Mungia,Activo,80%,FALSE,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+375,Antonio,Diciembre 2025,Edith Gonzalez,Activo,70%,FALSE,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+376,Antonio,Diciembre 2025,Guillermo Canto,Activo,70%,FALSE,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+377,Antonio,Diciembre 2025,Gabriel Meza,Activo,70%,FALSE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+378,Antonio,Diciembre 2025,Jose Miguel,Activo,70%,FALSE,False,False,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+379,Antonio,Diciembre 2025,Carlos Ignacio,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+380,Antonio,Diciembre 2025,Carlos,Activo,80%,FALSE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+381,Antonio,Enero 2026,Miguel Ramirez,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+382,Antonio,Enero 2026,Marcela Ramírez,Activo,70%,FALSE,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+383,Antonio,Enero 2026,Rafael Lopez,Activo,70%,FALSE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+384,Antonio,Enero 2026,Irma Juarez,Activo,70%,FALSE,False,False,Elizabeth,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+385,Ana,Enero 2026,Jimmy T,Activo,70%,FALSE,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+386,Ana,Enero 2026,Misael  Rodriguez ,Activo,70%,FALSE,False,False,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+387,Ana,Enero 2026,"Cesar  C ,  ",Activo,90%,TRUE,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+388,Antonio,Enero 2026,Mireya,Activo,90%,TRUE,True,True,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+389,Antonio,Enero 2026,Liliana Alvarez,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+390,Antonio,Enero 2026,Rodrigo P,Activo,90%,FALSE,False,False,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+391,Antonio,Enero 2026,Alfonso Ibañez Olmos,Activo,80%,FALSE,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+392,Antonio,Enero 2026,Guillermo Hernandez,Activo,80%,FALSE,False,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+393,Ana,Enero 2026,Roman Aguilar,Activo,60%,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+394,Ana,Enero 2026,NATANAEL OLVERA San Pablo,Activo,70%,TRUE,True,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+395,Ana,Enero 2026,Lau T,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+396,Ana,Enero 2026,Jose Luis Dominguez,Activo,80%,FALSE,False,False,Aurelio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+397,Antonio,Enero 2026,Juan FLores,Activo,70%,FALSE,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+398,Antonio,Enero 2026,Omar  Cuautle,Activo,60%,FALSE,False,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+399,Ana,Enero 2026,Luis Angel l Rojas Lecona,Activo,70%,FALSE,False,False,Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+400,Ana,Enero 2026,Joe Carrera,Activo,80%,FALSE,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+401,Ana,Enero 2026,ana CAROLINA CAMPO,Activo,80%,TRUE,True,False,Ricardo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+402,Ana,Enero 2026,Sadrac  Acostha ,Activo,80%,FALSE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+403,Ana,Enero 2026,Ricardo,Activo,70%,FALSE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+404,Antonio,Enero 2026,Alejandra Martinez,Activo,90%,FALSE,False,False,Alan,FORANEA VERACRUZ,Ya esta en proceso,FORANEA VERACRUZ,FORANEA VERACRUZ,Se asigno por SC
+405,Antonio,Enero 2026,Ericka Huerta Viveros,Activo,70%,FALSE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+406,Antonio,Enero 2026,EDGAR ARCOS,Activo,70%,FALSE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+407,Antonio,Enero 2026,Julio Guzmán,Activo,60%,FALSE,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+408,Ana,Enero 2026,Sadrac Acosta,Activo,60%,FALSE,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+409,Ana,Enero 2026,Darth V,Activo,60%,FALSE,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+410,Ana,Enero 2026,JUAN VALDEZ,Activo,70%,TRUE,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+411,Ana,Enero 2026,Lidio Sandoval Vazquez,Activo,60%,FALSE,False,False,Sin registro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+412,Antonio,Enero 2026,Julio Cesar,Activo,80%,FALSE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC
+413,Ana,Enero 2026,Luis Aldana,Activo,80%,TRUE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+414,Ana,Enero 2026,CARLOS ERNESTO PAREDES,Activo,80%,TRUE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+415,Ana,Enero 2026,Demetrio  Zamara,Activo,80%,TRUE,True,False,Mauricio,Ya visito la agencua,Sin registro,Sin registro,Sin registro,Sin registro
+416,Ana,Enero 2026,Roberto De Jesus Lopez,Activo,70%,FALSE,False,False,Alan,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+417,Antonio,Febrero 2026,Sergio Cebada,Activo,80%,TRUE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+418,Antonio,Febrero 2026,Orlando Peralta,Activo,80%,TRUE,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+419,Antonio,Febrero 2026,jose angel varela,Activo,80%,TRUE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+420,Antonio,Febrero 2026,ANA MARIA NIETO,Activo,80%,FALSE,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+421,Antonio,Febrero 2026,Nitzel Zempoaltecatl,Activo,90%,FALSE,False,False,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+422,Antonio,Febrero 2026,Sergio ortega,Activo,90%,TRUE,True,True,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+423,Antonio,Febrero 2026,Ramón Antonio,Activo,60%,TRUE,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+424,Antonio,Febrero 2026,Cuautemoc Paramo Prado,Activo,60%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+425,Ana,Febrero 2026,Josafat Cuapio,Activo,70%,FALSE,True,False,Sin registro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+426,Ana,Febrero 2026,Gilberto Fr,Activo,60%,FALSE,False,False,Carlos Hernandez,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+427,Ana,Febrero 2026,Sergio Gonzalez,Activo,80%,FALSE,False,False,Carlos Mejia,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+428,Ana,Febrero 2026,Adolfo Aguilar,Activo,70%,FALSE,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+429,Ana,Febrero 2026,Antonio De Jesús Lima Hernández,Activo,60%,FALSE,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+430,Antonio,Febrero 2026,Cesar M,Activo,70%,TRUE,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+431,Ana,Febrero 2026,Martín Vázquez,Sin registro,Sin registro,FALSE,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+432,Ana,Febrero 2026,Pimentel Eleuterio,Sin registro,Sin registro,FALSE,False,False,Cesar Pestaña,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+433,Antonio,Febrero 2026,Frida T,Activo,90%,TRUE,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+434,Ana,Febrero 2026,Alicia Avila,Activo,80%,FALSE,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+435,Ana,Febrero 2026,Carlos Lozano Ramos,Activo,70%,TRUE,False,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+436,Ana,Febrero 2026,MA ELENA ISABEL LEAN BURGOS-,Activo,100%,TRUE,True,False,Aurelio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+437,Antonio,Febrero 2026,Miguel Galindo Aburto,Activo,80%,FALSE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+438,Antonio,Febrero 2026,Omar Reyes,Activo,75%,TRUE,False,False,Julio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+439,Antonio,Febrero 2026,Fernando Tellez,Activo,60%,FALSE,False,False,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+440,Antonio,Febrero 2026,Rey Hernandez,Sin registro,70%,FALSE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+441,Ana,Febrero 2026,Bety Herrera,Activo,70%,FALSE,False,False,Carlos Hdz,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+442,Ana,Febrero 2026,Miguel Grande,Activo,60%,TRUE,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+443,Ana,Febrero 2026,Israel Hernández Pérez,Activo,60%,FALSE,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+444,Ana,Febrero 2026,JOSE LUIS LOYA,Activo,70%,TRUE,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+445,Ana,Febrero 2026,Brian Michel Villegas,Activo,70%,TRUE,False,False,Alan,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+446,Ana,Febrero 2026,Hugo Velazquez,Activo,70%,FALSE,False,False,Mauricio,Videollamada,Sin registro,Sin registro,Sin registro,Sin registro
+447,Antonio,Febrero 2026,Karen,Activo,60%,TRUE,False,False,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+448,Antonio,Marzo 2026,Rene Osorno,Activo,60%,TRUE,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+449,Antonio,Marzo 2026,Jose Carlos Hernandez,Activo,80%,TRUE,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+450,Ana,Marzo 2026,Oscar Ezpinoza,Activo,60%,TRUE,False,False,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+451,Antonio,Marzo 2026,Cesar Chavez,Activo,80%,TRUE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+452,Ana,Marzo 2026,Miguel Angel Ramirez Avalos,Activo,70%,TRUE,False,False,Aurelio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+453,Antonio,Marzo 2026,Ana Paola,Activo,80%,TRUE,True,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+454,Ana,Marzo 2026,Jack Joaquín Sabina Zárate Juárez,Activo,70%,TRUE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+455,Ana,Marzo 2026,Adrian Cristobal,Activo,70%,FALSE,True,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+456,Antonio,Marzo 2026,PRE HOGAR,Activo,70%,TRUE,False,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+457,Antonio,Marzo 2026,Maura Gonzalez,Activo,60%,TRUE,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+458,Antonio,Marzo 2026,Carlos Nava,Activo,70%,TRUE,False,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+459,Ana,Marzo 2026,Luis arturo chora lara,Activo,70%,TRUE,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+460,Ana,Marzo 2026,Jose Isidro,Activo,70%,TRUE,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+461,Antonio,Marzo 2026,Sergio,Activo,80%,FALSE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+462,Antonio,Marzo 2026,Athalia,Activo,90%,FALSE,False,True,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+463,Antonio,Marzo 2026,Alfonso Ramirez,Activo,80%,TRUE,False,False,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+464,Antonio,Abril 2026,Carlos León,Activo,70%,FALSE,False,False,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+465,Ana,Abril 2026,Jesus P,Activo,80%,FALSE,False,False,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+466,Ana,Abril 2026,JUAN DE DIOS NAVARRETE MENDEZ,Activo,70%,FALSE,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro
+467,Ana,Abril 2026,Anyvia Jazmín Cruz Mendoza,Activo,70%,FALSE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+468,Antonio,Abril 2026,Christofer,Activo,65%,FALSE,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+469,Ana,Abril 2026,Simon Vega Aquiahuatl,Activo,70%,FALSE,True,False,Vanny,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+470,Ana,Abril 2026,HECTOR JIMÉNEZ ALDAY,Activo,70%,TRUE,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+471,Ana,Abril 2026,Jhonathan Bravo,Activo,80%,TRUE,False,False,Maurico,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+472,Ana,Abril 2026,Cristobal,Activo,70%,TRUE,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+473,Antonio,Abril 2026,MARÍA DEL CARMEN GRADOS,Activo,60%,FALSE,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+474,Antonio,Abril 2026,Alejandro Cruz Adabache,Activo,Sin registro,FALSE,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+475,Antonio,Abril 2026,Juan José castellon,Activo,80%,FALSE,False,False,Ivan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+476,Antonio,Abril 2026,Dianarely Marquez,Activo,60%,FALSE,False,False,Mauricio,SC,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita
+477,Ana,Abril 2026,Dr Julio Cesar,Activo,70%,FALSE,False,False,Vanny,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+478,Ana,Abril 2026,David Omar Damián González,Activo,80%,FALSE,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+479,Ana,Abril 2026,Arturo Delgado García,Activo,50%,FALSE,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+480,Ana,Abril 2026,Mario Moreno,Activo,80%,FALSE,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+481,Ana,Abril 2026,Victor Luciano Huerta Acosta Huerta,Activo,80%,FALSE,False,False,Pedro,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+482,Ana,Abril 2026,Roberto Aguilar,Activo,70%,FALSE,False,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+483,Ana,Abril 2026,Rulo Vera,Activo,70%,TRUE,False,False,Nayeli,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+484,Ana,Abril 2026,Rafael Cázares,Activo,80%,FALSE,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+485,Ignacio,Abril 2026,Antonio Escalona ,Activo,50%,TRUE,True,False,Pedro Gonzalez,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+486,Ignacio,Abril 2026,Martin Ortuño ,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+487,Ignacio,Abril 2026,Salvador Jasso ,Activo,30%,TRUE,False,False,Mauricio,Ya visito la agencia,depende del padres ,Sin registro,Sin registro,Sin registro
+488,Ignacio,Abril 2026,Luis Pelcastre ,Activo,30%,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+489,Ignacio,Abril 2026,Santa Garcia ,Activo,50%,TRUE,True,False,Carlos Hernandez,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+490,Ignacio,Abril 2026,Gamaliel Vega ,Activo,50%,TRUE,True,True,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+491,Ana,Abril 2026,Victor Hugo Narvaez,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+492,Ana,Abril 2026,EDGAR SILES,Activo,80%,FALSE,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+493,Ana,Abril 2026,JAIRO ROJAS,Activo,70%,FALSE,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+494,Ana,Abril 2026,Carlos Perez,Activo,80%,FALSE,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+495,Ana,Abril 2026,Arnold perales,Activo,70%,FALSE,False,False,Carlos Mejia,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+496,Ana,Abril 2026,Said Azpeitia Blanco,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+497,Ignacio,Abril 2026,Ricardo Gutierrez,Activo,80%,TRUE,False,True,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+498,Ignacio,Abril 2026,Jorge de gante,Activo,Sin registro,TRUE,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+499,Ignacio,Abril 2026,Javier Aguilar ,Activo,Sin registro,FALSE,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+500,Ignacio,Abril 2026,Marco Antonio Valencia ,Activo,70%,TRUE,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+501,Ignacio,Abril 2026,Rocio Cortes ,Activo,50%,TRUE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+502,Ana,Abril 2026,Armando Uribe Torres,Activo,80%,TRUE,False,False,Carlos Mejia,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+503,Ignacio,Abril 2026,Elias Dias Salgado ,Activo,50%,TRUE,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+504,Ana,Abril 2026,andres Domínguez,Activo,60%,TRUE,False,False,Fatima,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+505,Ana,Abril 2026,Rafael Sanchez,Activo,70%,TRUE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+506,Ana,Abril 2026,Carlos Herrera,Activo,70%,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+507,Ana,Abril 2026,Daniel Morales Hernández,Activo,70%,TRUE,False,False,Julio Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+508,Ana,Abril 2026,Jehu Rodriguez,Activo,70%,TRUE,False,False,Mauricio,Ya visto la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+509,Ignacio,Abril 2026,Juan Pablo Castellanos ,Activo,70%,FALSE,False,False,Victor Sanchez,Ya visto la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+510,Ana,Abril 2026,Pablo Archundia López,Activo,70%,TRUE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+511,Sin registro,Abril 2026,JOSE LUIS,Activo,70%,FALSE,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+512,Sin registro,Abril 2026,Alejandro Tapia Rueda,Activo,70%,FALSE,False,False,Carlos,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+513,Sin registro,Abril 2026,Angel Perez,Activo,80%,FALSE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+514,Sin registro,Abril 2026,Julio Lopez,Activo,50%,TRUE,False,False,Pedro Gonzalez,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+515,Sin registro,Abril 2026,Miguel Antonio Fernandez,Activo,70%,FALSE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+516,Sin registro,Abril 2026,Alejandro Sanchez,Activo,30%,FALSE,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+517,Sin registro,Abril 2026,Cesar Palafox,Activo,30%,FALSE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+518,Sin registro,Abril 2026,HUGO BADILLO,Activo,50%,FALSE,False,False,Alvaro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+519,Ignacio,Mayo 2026,Alan Guerrero ,Activo,Sin registro,TRUE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+520,Ignacio,Mayo 2026,Larrisa Oidor ,Sin registro,Sin registro,FALSE,True,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+521,Ignacio,Mayo 2026,Jorge Duran ,Activo,Sin registro,FALSE,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+522,Ignacio,Mayo 2026,Hector Reyes ,Sin registro,Sin registro,TRUE,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+523,Ana,Mayo 2026,Leo Rodríguez,Activo,Sin registro,FALSE,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+524,Ana,Mayo 2026,Neftali Lima Sanchez,Activo,Sin registro,FALSE,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+525,Ignacio,Mayo 2026,Alhdair Bonifacio Ramos ,Activo,Sin registro,FALSE,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+526,Ignacio,Mayo 2026,Gary Hernandez ,Activo,Sin registro,FALSE,False,False,Vanny,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+527,Ana,Mayo 2026,Edgar Alejandro,Activo,Sin registro,FALSE,True,False,Aurelio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro
+528,Ana,Mayo 2026,Celestino Olivares Flores,Activo,Sin registro,TRUE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+529,Ana,Mayo 2026,Margarita Martìnez Mirand,Activo,Sin registro,FALSE,True,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro
+530,Ana,Mayo 2026,Armando Uribe Torres-,Activo,Sin registro,FALSE,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+531,Ana,Mayo 2026,Jose F,Activo,Sin registro,TRUE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+532,Ana,Mayo 2026,Jesus Flores sanchez,Activo,Sin registro,TRUE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+533,Ana,Mayo 2026,JOSE IGNACIO,Activo,Sin registro,TRUE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+534,Ignacio,Mayo 2026,Fernando Duran ,Activo,Sin registro,FALSE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+535,Ignacio,Mayo 2026,Guillermo Benavides ,Activo,Sin registro,TRUE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+536,Ignacio,Mayo 2026,Hugo Franco ,Activo,Sin registro,TRUE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+537,Ignacio,Mayo 2026,Luis Enrique Palomares ,Activo,Sin registro,FALSE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+538,Ana,Mayo 2026,Edgar Alejandro,Activo,Sin registro,TRUE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+539,Ana,Mayo 2026,Eduardo Apodaca Espinosa,Activo,Sin registro,FALSE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+540,Ana,Mayo 2026,Marco xs,Activo,Sin registro,TRUE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+541,Ana,Mayo 2026,JOSE SANCHEZ,Activo,Sin registro,FALSE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+542,Ana,Mayo 2026,Roberto Garcia ,Activo,Sin registro,FALSE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+543,Ana,Mayo 2026,Gustavo Melendez,Activo,Sin registro,FALSE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+544,Ignacio,Mayo 2026,Ruben Lopez ,Activo,Sin registro,TRUE,True,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+545,Ignacio,Mayo 2026,Jaime trejo ,Activo,70%,TRUE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+546,Ignacio,Mayo 2026,Alma Sanchez ,Activo,Sin registro,FALSE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+547,Ignacio,Mayo 2026,Carlos Cervantes ,Activo,Sin registro,FALSE,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+548,Ignacio,Mayo 2026,Santa Garcia ,Activo,100%,TRUE,True,True,Carlos,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+549,Ignacio,Mayo 2026,Raul Miranda ,Activo,100%,FALSE,True,True,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+550,Ana,Mayo 2026,Juan Manuel Hernández,Activo,Sin registro,TRUE,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+551,Ana,Mayo 2026,Ramon Castro Vite,Activo,Sin registro,TRUE,True,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+552,Ana,Mayo 2026,Ernesto Pachuca,Activo,Sin registro,FALSE,True,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+553,Ana,Mayo 2026,Adalyn montiel morales,Activo,Sin registro,TRUE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+554,Ana,Mayo 2026,EVERT VALVERDE JIMENEZ,Activo,Sin registro,TRUE,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+555,Ana,Mayo 2026,Benjamin Sanchez,Activo,Sin registro,TRUE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+556,Ana,Mayo 2026,Quiroz Daniel,Activo,Sin registro,TRUE,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+557,Ignacio,Mayo 2026,Armando Briones ,Activo,50%,FALSE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+558,Ana,Mayo 2026,Salomon Sanchyez,Sin registro,Sin registro,FALSE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+559,Ana,Mayo 2026,Adriana F,Activo,Sin registro,TRUE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+560,Ana,Mayo 2026,Angel Romo,Sin registro,Sin registro,TRUE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+561,Ignacio,Mayo 2026,Juan Carlos Carreto ,Sin registro,50%,FALSE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+562,Ignacio,Mayo 2026,Alberto SR,Sin registro,50%,FALSE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+563,Ana,Mayo 2026,Sebastian F,Sin registro,Sin registro,TRUE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+564,Ana,Mayo 2026,Jorge G,Sin registro,Sin registro,TRUE,True,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+565,Ignacio,Mayo 2026,Fernando Zárate ,Activo,70%,TRUE,True,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+566,Ignacio,Mayo 2026,Karla Marquez ,Activo,70%,FALSE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+567,Ana,Mayo 2026,ansony f,Activo,70%,TRUE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+568,Ana,Mayo 2026,Jorge A Quiroz,Activo,70%,TRUE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+569,Ignacio,Mayo 2026,Michel Taja ,Activo,50%,FALSE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+570,Ignacio,Mayo 2026,Jairo Rodriguez ,Activo,50%,FALSE,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+571,Ignacio,Mayo 2026,Arturo Lopez ,Activo,50%,FALSE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+572,Ignacio,Mayo 2026,Yolanda Castellanos ,Activo,100%,FALSE,True,True,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+573,Ana,Mayo 2026,Juan Roque,Activo,100%,TRUE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+574,Ignacio,Mayo 2026,Maria guadalupe Serrano ,Activo,100%,FALSE,False,True,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+575,Ana,Mayo 2026,MARCO ANTONIO CHARTUNI,Activo,80%,FALSE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+576,Ana,Mayo 2026,Alexey ,Activo,100%,TRUE,True,False,Ana,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+577,Ana,Mayo 2026,Brenda Lucero,Activo,100%,TRUE,True,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+578,Ignacio,Junio 2026,Francisco Cacho ,Activo,50%,FALSE,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+579,Ignacio,Junio 2026,Guillermo Hernandez ,Activo,50%,TRUE,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+580,Ignacio,Junio 2026,Roberto Quintana ,Activo,50%,FALSE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+581,Ignacio,Junio 2026,Karla Marquez ,Activo,100%,FALSE,False,True,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+582,Ana,Junio 2026,Javier Juarez Solano,Activo,70%,TRUE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+583,Ana,Junio 2026,Ommar Herrera,Activo,80%,TRUE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+584,Ana,Junio 2026,Andres Cuevas,Activo,60%,FALSE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+585,Ana,Junio 2026,Fernanda Lopez,Activo,80%,TRUE,True,False,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+586,Ana,Junio 2026,Jose,Activo,Sin registro,FALSE,False,False,Llamada,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+587,Ignacio,Junio 2026,Gregorio Tlapanco ,Activo,Sin registro,FALSE,False,False,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+588,Ignacio,Junio 2026,Ivan Bravo ,Activo,50%,TRUE,True,True,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+589,Ignacio,Junio 2026,Angelica Briones ,Activo,50%,FALSE,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+590,Ignacio,Junio 2026,Juan Alberto Vargas ,Activo,50%,TRUE,False,False,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+591,Ana,Junio 2026,Moises ,Activo,70%,TRUE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+592,Ana,Junio 2026,LUIS CASTILLO,Activo,50%,FALSE,False,False,Fer,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+593,Ana,Junio 2026,Eder Hernandez,Activo,70%,FALSE,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+594,Ana,Junio 2026,Alberto Madrigal,Activo,60%,FALSE,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+595,Ana,Junio 2026,Jesus Adelfo Hernandez Montiel,Activo,80%,FALSE,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+596,Ana,Junio 2026,Eduardo Delón Páez,Activo,80%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+597,Ana,Junio 2026,LUIS FERNANDO SANCHEZ QUIROZ,Activo,70%,TRUE,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+598,Ana,Junio 2026,Ommar Herrera,Activo,70%,TRUE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+599,Ana,Junio 2026,Jaime Davila Baez,Activo,70%,TRUE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+600,Ana,Junio 2026,Jan cx,Activo,70%,FALSE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+601,Ana,Junio 2026,BERNARDO ALCARAZ MORALES,Activo,80%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+602,Ana,Junio 2026,Juan Carlos García Hernández,Activo,70%,TRUE,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+603,Ana,Junio 2026,Benjamin Mendez,Activo,70%,TRUE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+604,Ana,Junio 2026,Jesus F,Activo,60%,FALSE,False,False,Fer F,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+605,Ana,Junio 2026,Sergio Flores,Activo,70%,FALSE,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+606,Ana,Junio 2026,Sofia polo,Activo,80%,FALSE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+607,Ignacio,Junio 2026,Jorge Canche ,Activo,50%,FALSE,False,False,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+608,Ignacio,Junio 2026,Octavio Perez ,Activo,70%,FALSE,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+609,Ignacio,Junio 2026,Adelina Khalikova ,Activo,70%,TRUE,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+610,Ignacio,Junio 2026,Roberto Luna Rosas ,Activo,50%,TRUE,False,True,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+611,Ignacio,Junio 2026,Miguel Martinez ,Activo,50%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+612,Ignacio,Junio 2026,Humberto Valencia ,Activo,50%,FALSE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+613,Ignacio,Junio 2026,Propescto Orizaba ,Activo,50%,FALSE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+614,Ana,Junio 2026,Paul Kehrli,Activo,60%,FALSE,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+615,Ana,Junio 2026,Benjamin Mendez,Activo,70%,FALSE,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+616,Ana,Junio 2026,Reynaldo Cobos ,Activo,80%,TRUE,False,False,Ulises,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+617,Ana,Junio 2026,Arturo Moreno ,Activo,50%,FALSE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+618,Ana,Junio 2026,Moises Hdez,Activo,70%,FALSE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+619,Ignacio,Julio 2026,Arquimedes Rugerio ,Activo,60%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+620,Ignacio,Julio 2026,Victor Manuel Diaz Ortiz ,Activo,60%,TRUE,False,False,Cesar Pestaña,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+621,Ana,Julio 2026,Margarita Romero Castillo,Activo,100%,TRUE,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+622,Ana,Julio 2026,Eder Chavez,Activo,70%,TRUE,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+623,Ana,Julio 2026,Alejandro VELAZQUEZ,Activo,80%,TRUE,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+624,Ana,Julio 2026,Miguel irigoyen,Activo,80%,FALSE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+625,Ana,Julio 2026,Jose Hernandez Gonzalez,Activo,80%,TRUE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+626,Ignacio,Julio 2026,Oswaldo Rueda ,Activo,Sin registro,TRUE,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+627,Ignacio,Julio 2026,Arturo Mendez ,Activo,Sin registro,TRUE,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+628,Ana,Julio 2026,Ruben Vargas,Activo,80%,TRUE,True,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+629,Ana,Julio 2026,Edgar Herrera,Activo,80%,TRUE,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+630,Ignacio,Julio 2026,luis Hernandez,Activo,50%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+631,Ignacio,Julio 2026,Omar Garcia ,Activo,50%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+632,Ignacio,Julio 2026,Rosaura Mendez Quechol ,Activo,100%,FALSE,False,True,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+633,Ana,Julio 2026,Alfonso f,Activo,70%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+634,Ana,Julio 2026,Lizbeth Garcia,Activo,70%,TRUE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+635,Ana,Julio 2026,Mike Mora,Activo,90%,FALSE,True,False,Alfredo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+636,Ana,Julio 2026,Azucena de Jesus machorro arreola,Activo,100%,TRUE,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+637,Ana,Julio 2026,Jose F,Activo,80%,FALSE,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+638,Ana,Julio 2026,Daniel Padilla,Activo,90%,TRUE,True,False,Fernanda,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+639,Ana,Julio 2026,Juan Carazo Juan Carazo,Activo,80%,FALSE,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+640,Ana,Julio 2026,MARIBEL BARRON,Activo,90%,TRUE,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+641,Ignacio,Julio 2026,Bernardo Ayuso ,Sin registro,Sin registro,FALSE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+642,Ignacio,Julio 2026,Victor Garcai ,Sin registro,Sin registro,FALSE,False,False,Alfredo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+643,Ignacio,Julio 2026,Johancarlo Islas ,Activo,50%,FALSE,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+644,Ana,Julio 2026,Margaret Silva Serrano,Activo,80%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+645,Ignacio,Julio 2026,Carlos Balderrama ,Activo,50%,TRUE,True,True,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+646,Ignacio,Julio 2026,Andrés Netzahuatl ,Activo,50%,FALSE,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+647,Ana,Julio 2026,Arat Israel,Activo,80%,TRUE,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+648,Ana,Julio 2026,Maira Escalante,Activo,80%,TRUE,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+649,Ignacio,Julio 2026,Zaira Macip ,Activo,50%,FALSE,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+650,Ignacio,Julio 2026,Julio Hernandez ,Activo,50%,TRUE,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+651,Ignacio,Julio 2026,Xhunaxhi Vicente ,Activo,100%,TRUE,True,True,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+652,Ignacio,Julio 2026,DR Jairo Rodriguez Farias ,Activo,100%,TRUE,True,True,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+653,Ana,Julio 2026,Angel Padilla,Activo,90%,TRUE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+654,Ana,Julio 2026,Teresa Andrade,Activo,90%,TRUE,True,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+655,Ana,Julio 2026,Alejandro ,Activo,90%,TRUE,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+656,Ana,Julio 2026,Arturo Sanchez,Activo,90%,TRUE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+657,Ana,Julio 2026,GONZALO RAMIRES SILVA ,Activo,90%,TRUE,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+658,Ana,Julio 2026,Ruben Dario ,Activo,90%,TRUE,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+659,Ignacio,Julio 2026,Jesus Torres ,Activo,70%,TRUE,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+660,Ignacio,Julio 2026,Arquimedes Rugerio ,Activo,Sin registro,FALSE,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+661,Ana,Julio 2026,Jorge Hernandez ,Activo,50%,FALSE,False,False,Carlos,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+662,Ignacio,Julio 2026,Zabdiel Medrano ,Activo,80%,TRUE,True,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+663,Ignacio,Agosto 2026,Rosbin Lezama/ Maria ,Activo,80%,FALSE,True,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+664,Ignacio,Agosto 2026,Josefina Rosete ,Activo,90%,TRUE,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
+665,Ignacio,Agosto 2026,Alejandra Lezama ,Activo,50%,FALSE,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro
